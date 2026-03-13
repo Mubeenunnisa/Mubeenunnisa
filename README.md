@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi 👋 I'm Mubeenunnisa J
 
-<!--
-**Mubeenunnisa/Mubeenunnisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Problem Solver | Full Stack Developer | AI & Data Science Student
 
-Here are some ideas to get you started:
+🎓 B.Tech in Artificial Intelligence and Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 💻 Passionate about **Web Development, Full Stack Development, and Data Science**
+* 🧠 Interested in building **AI-powered solutions for real-world problems**
+* 🏆 **Hackathon enthusiast** – participated and been a **finalist in multiple hackathons**
+* 🌱 Currently learning **advanced AI, scalable web apps, and system design**
+
+---
+
+## 🛠️ Programming Languages
+
+C++ | Java | Python
+
+---
+
+## 🌐 Web Development
+
+HTML | CSS | JavaScript | React.js | Node.js | Python
+
+---
+
+## 🗄️ Databases
+
+MySQL | MongoDB | Firebase
+
+---
+
+## ⚙️ Tools & Technologies
+
+VS Code | Git | Notion | Figma
+
+---
+
+## 📚 Libraries & Frameworks
+
+TensorFlow | NumPy | Pandas | Keras
+
+---
+
+## 🎯 Goals
+
+To build impactful **AI-driven products and full-stack applications** that solve real-world problems.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubeenunnisa\&show_icons=true\&theme=radical)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mubeenunnisa\&theme=radical)
+
+---
+
+## 🤝 Let's Connect
+
+📧 Open to collaboration on **AI, Web Development, and innovative tech projects**
