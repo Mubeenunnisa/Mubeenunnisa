@@ -18,37 +18,27 @@
 ## 🛠️ Programming Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python" />
----
 
 ## 🌐 Web Development
 
-HTML | CSS | JavaScript | React.js | Node.js | Python
-
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
 
 ## 🗄️ Databases
 
-MySQL | MongoDB | Firebase
-
----
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
 ## ⚙️ Tools & Technologies
 
-VS Code | Git | Notion | Figma
-
----
+<img src="https://skillicons.dev/icons?i=vscode,git,notion,figma" />
 
 ## 📚 Libraries & Frameworks
 
-TensorFlow | NumPy | Pandas | Keras
-
----
+<img src="https://skillicons.dev/icons?i=tensorflow,python" />
 
 ## 🎯 Goals
 
 To build impactful **AI-driven products and full-stack applications** that solve real-world problems.
 
----
 
 ## 📊 GitHub Stats
 
