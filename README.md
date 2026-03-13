@@ -1,4 +1,5 @@
 # Hi 👋 I'm Mubeenunnisa J
+<img align="right" height="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 💡 Problem Solver | Full Stack Developer | AI & Data Science Student
 
@@ -56,4 +57,3 @@ To build impactful **AI-driven products and full-stack applications** that solve
 
 📧 Open to collaboration on **AI, Web Development, and innovative tech projects**
 
-<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
