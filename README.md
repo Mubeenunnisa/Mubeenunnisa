@@ -1,8 +1,12 @@
-# Hi 👋 I'm Mubeenunnisa J
-<img align="right" height="250" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
-💡 Problem Solver | Full Stack Developer | AI & Data Science Student
+<h1>Hi 👋 I'm Mubeenunnisa J</h1>
 
+<p align="left">
+💡 Problem Solver | Full Stack Developer | AI & Data Science Student  
+<br>
 🎓 B.Tech in Artificial Intelligence and Data Science
+</p>
+
+<img align="right" height="250" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
 
 ---
 
