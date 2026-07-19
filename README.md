@@ -44,17 +44,8 @@
 To build impactful **AI-driven products and full-stack applications** that solve real-world problems.
 
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubeenunnisa\&show_icons=true\&theme=radical)
-
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mubeenunnisa\&theme=radical)
-
----
 
 ## 🤝 Let's Connect
 
