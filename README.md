@@ -51,3 +51,15 @@ To build impactful **AI-driven products and full-stack applications** that solve
 
 📧 Open to collaboration on **AI, Web Development, and innovative tech projects**
 
+## 🤝 Let's Connect
+
+📧 Open to collaboration on **AI, Web Development, and innovative tech projects**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mubeenunnisa-j/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mubeenunnisa-j/" target="_blank">
+    <b>LinkedIn - Mubeenunnisa J</b>
+  </a>
+</p>
